@@ -1,5 +1,9 @@
 # Smartathon Theme 1 solution by Bunty and Pankti Shah
 
+## Presentation Link: https://github.com/buntys2010/Smartathon-Theme-1/blob/main/Smartathon%20Theme%201.pptx
+
+## Weights : https://drive.google.com/file/d/17AkabLntkVcNHNN0Cr4uaL-f4Y6uqNi1/view?usp=sharing
+
 ## Project Overview
 ![image](https://user-images.githubusercontent.com/9404463/213881297-a6fe6694-3411-4900-8f68-e7fac8305f06.png)
 
