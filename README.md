@@ -29,3 +29,6 @@
 
 ## Confusion Metrics
 ![media_images_Results_459_504fb59c6a5cba728607](https://user-images.githubusercontent.com/9404463/213881477-ccfb7028-0b36-4313-8164-eb0d77622706.png)
+
+## mAP@0.5
+![W B Chart 1_21_2023, 11_58_08 PM](https://user-images.githubusercontent.com/9404463/213881737-ebf56ae0-307f-41cd-9bc7-166c6b85dbff.png)
