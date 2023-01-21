@@ -1,4 +1,4 @@
-# Smartathon Theme 1 solution by Bunty and Pankti Shah
+# Smartathon Theme 1 - The Visionary Detectors by Bunty and Pankti Shah
 
 ## Presentation Link: https://github.com/buntys2010/Smartathon-Theme-1/blob/main/Smartathon%20Theme%201.pptx
 
